@@ -1,7 +1,7 @@
 # PhD 2048
 A fork of [2048](https://github.com/gabrielecirulli/2048) for PhD students. (Yes, you can create a professor's 2048 in which two students become a garbage tile.)
 
-Made just for procrastination. [Play it here!](https://ymfa.github.io/phd-2048/)
+Made just for procrastination. [Play it here!](https://phd-2048.netlify.com)
 
 ### Forking
 Feel free to fork and create your own version of 2048. A few suggestions on what to fiddle with:
@@ -19,5 +19,3 @@ Therefore you should use the `master` branch rather than `gh-pages`, and add you
 ### Known issues
 - I have to make changes directly to `main.css` instead of `main.scss`, because compiling the original `main.scss` does not reproduce the original `main.css`.
 
-### License
-PhD 2048 is licensed under the [GNU General Public License](https://github.com/ymfa/phd-2048/blob/master/LICENSE.txt).
