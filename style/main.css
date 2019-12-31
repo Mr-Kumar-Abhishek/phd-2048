@@ -344,7 +344,7 @@ hr {
       .tile.tile-2 .tile-inner {
         font-size: 14px; } }
   .tile.tile-4 .tile-inner {
-    background: #eee1c9;
+    background: #2b422b;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     @media screen and (max-width: 520px) {
       .tile.tile-4 .tile-inner {
